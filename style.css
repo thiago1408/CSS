@@ -1,0 +1,24 @@
+
+    body{
+        border:1px solid black;
+
+
+        color:blue;
+    }
+    li{
+        text-decoration: underline;
+
+    }
+    ul{
+        border:1px solid black;
+        
+    }
+    .bts #bt2 {
+        background-color: blueviolet;
+        transition: 600ms;
+    }
+    .bts #bt2:hover {
+        color: antiquewhite;
+        background-color: black;
+    }
+    
